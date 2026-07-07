@@ -1,0 +1,13 @@
+Why Use Git?
+- Keeps a history of all changes.
+- Enables collaboration without overwriting others’ work.
+- Provides branching for experimenting safely.
+- Easy to undo mistakes and restore previous versions.
+
+Core Concepts
+- Repository (Repo): Project storage with full history.
+- Commit: A snapshot of changes.
+- Branch: A parallel line of development.
+- Merge: Combining changes from branches.
+- Clone: Downloading a copy of a repo.
+- Push/Pull: Uploading/downloading changes
