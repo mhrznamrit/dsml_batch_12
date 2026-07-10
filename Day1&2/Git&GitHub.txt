@@ -11,3 +11,23 @@ Core Concepts
 - Merge: Combining changes from branches.
 - Clone: Downloading a copy of a repo.
 - Push/Pull: Uploading/downloading changes
+
+• git init — Create a New Repository
+    ◦ Initializes Git in a folder.
+    ◦ Creates a hidden .git directory to start version control.
+• git clone — Copy an Existing Repository
+    ◦ Downloads a remote repository (e.g., from GitHub) to your computer.
+• git add — Stage Changes
+    ◦ Prepares modified files to be committed.
+    ◦ Moves changes to the staging area.
+    ◦ Example:
+    ◦ git add file.txt
+    ◦ git add . (adds all changes)
+• git commit — Save a Snapshot
+    ◦ Records the staged changes permanently to the repository history.
+    ◦ git commit -m "Initial commit"
+• git push — Upload Local Changes
+    ◦ Sends your local commits to a remote repository (GitHub, GitLab, etc.).
+• git pull — Get Updates from Remote
+    ◦ Fetches new changes from the remote repository.
+    ◦ Automatically merges them into your local branch.
