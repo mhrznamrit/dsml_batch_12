@@ -1,0 +1,60 @@
+Driver: Jeet
+Vehicle: Bike
+Distance: 13.0 km
+Fare: Rs.150.0
+Rating: 3.4
+------------------------------
+Driver: Daya
+Vehicle: Bike
+Distance: 17.0 km
+Fare: Rs.190.0
+Rating: 1.2
+------------------------------
+Driver: John
+Vehicle: Car
+Distance: 29.0 km
+Fare: Rs.775.0
+Rating: 4.7
+------------------------------
+Driver: Kris
+Vehicle: Car
+Distance: 18.0 km
+Fare: Rs.500.0
+Rating: 3.0
+------------------------------
+Driver: Sushant
+Vehicle: Bike
+Distance: 23.0 km
+Fare: Rs.250.0
+Rating: 1.0
+------------------------------
+Driver: Dinesh
+Vehicle: Car
+Distance: 33.0 km
+Fare: Rs.875.0
+Rating: 4.8
+------------------------------
+Driver: Prem
+Vehicle: Car
+Distance: 15.0 km
+Fare: Rs.425.0
+Rating: 2.5
+------------------------------
+Driver: Teknath
+Vehicle: Bike
+Distance: 21.0 km
+Fare: Rs.230.0
+Rating: 4.0
+------------------------------
+Driver: Raj
+Vehicle: Bike
+Distance: 19.0 km
+Fare: Rs.210.0
+Rating: 5.0
+------------------------------
+Driver: Sunil
+Vehicle: Car
+Distance: 1.0 km
+Fare: Rs.75.0
+Rating: 1.0
+------------------------------
